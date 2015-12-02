@@ -42,6 +42,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>This is a private symbol.
           @attr name com.caverock.androidsvg:svg
         */
-        public static final int SVGImageView_svg = 0;
+        public static int SVGImageView_svg = 0;
     };
 }
